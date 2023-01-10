@@ -1,7 +1,7 @@
 # CSA5164-cryptography and Network Security
-1.IMPLEMENTATION OF CAESAR CIPHER
+#1.IMPLEMENTATION OF CAESAR CIPHER
 ![Screenshot (8)](https://user-images.githubusercontent.com/112743413/211602569-8ce50172-2965-4669-88ea-9ef28803cf29.png)
-2.IMPLEMENTATION OF PLAYFAIR CIPHER
+#2.IMPLEMENTATION OF PLAYFAIR CIPHER
 ![Screenshot (14)](https://user-images.githubusercontent.com/112743413/211603449-a4425fad-1bd8-44ff-9654-326498c6674a.png)
 3.IMPLEMENTATION OF HILL CIPHER
 ![Screenshot (7)](https://user-images.githubusercontent.com/112743413/211603687-079c41ef-3ac5-4c44-94d4-061d684797da.png)
